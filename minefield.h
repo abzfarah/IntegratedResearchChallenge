@@ -1,3 +1,9 @@
+/***********************************************************************
+ * Integrated Research Minesweeper Challenge
+ * Author        : Abdi Farah
+ * Date     : 16 Feb 2016
+ ***********************************************************************/
+
 #ifndef MINEFIELD_H
 #define MINEFIELD_H
 
